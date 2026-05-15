@@ -1,2 +1,2 @@
 # file-encrypter-and-decrypter
-begineer project
+beginner project
